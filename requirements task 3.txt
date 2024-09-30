@@ -1,0 +1,4 @@
+pip install tensorflow
+pip install opencv-python
+Pillow: For handling image formats in the GUI pip install pillow
+ standard Python interface for creating GUIs.
